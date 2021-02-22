@@ -1,0 +1,22 @@
+﻿[信息] 2021-02-20 13:11:08.948 thread:[001] chanelIni() : 通道PLC1 初始化失败！
+[信息] 2021-02-20 13:11:10.614 thread:[001] btStart_Click() : 通道初始化失败，终止采集！
+[信息] 2021-02-20 13:13:04.103 thread:[001] chanelIni() : 通道PLC1 初始化失败！
+[信息] 2021-02-20 13:13:10.696 thread:[001] btStart_Click() : 通道初始化失败，终止采集！
+[致命] 2021-02-20 13:47:35.308 thread:[001] chanelIni() : 错误信息：文件“C:\Users\Administrator\Desktop\1.csv”正由另一进程使用，因此该进程无法访问此文件。
+错误源：mscorlib
+错误堆栈：   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 iHMCollect.tagHelp.GetFileEncodingType(String FILE_NAME)
+错误类型：System.IO.IOException
+错误方法：Void WinIOError(Int32, System.String)
+/=================================================[    Exception    ]================================================/
+[致命] 2021-02-20 14:18:03.324 thread:[001] chanelIni() : 错误信息：文件“C:\Users\Administrator\Desktop\4.csv”正由另一进程使用，因此该进程无法访问此文件。
+错误源：mscorlib
+错误堆栈：   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 iHMCollect.tagHelp.GetFileEncodingType(String FILE_NAME)
+错误类型：System.IO.IOException
+错误方法：Void WinIOError(Int32, System.String)
+/=================================================[    Exception    ]================================================/

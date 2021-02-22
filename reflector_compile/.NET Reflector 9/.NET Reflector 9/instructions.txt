@@ -1,0 +1,13 @@
+install reflector.
+disconnect internet connection.
+use the serial generated from the kg to register the software.
+The prog should tell you "unable to connect..". THAT's OK!!!
+Use "Activate Manually" option.
+Copy the activation code from the program to kg (with CTRl+C/CTRL+V)
+Wait till the kg computes the activation response code and paste it back to the program activation window.
+THAT IS. you have activated reflector 9.x.
+
+Enjoy!
+
+
+iNDi_o.0

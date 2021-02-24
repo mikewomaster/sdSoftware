@@ -1,0 +1,5 @@
+https://docs.edgexfoundry.org/1.2/microservices/core/Ch-CoreServices/
+https://plc4x.apache.org/
+https://docs.emqx.cn/edge/latest/
+http://hiddenmap.cn/portal;JSESSIONID=513c7a23-a1d8-4eb3-b8c1-6853e48506bd
+http://www.j-ridge.com/about.html

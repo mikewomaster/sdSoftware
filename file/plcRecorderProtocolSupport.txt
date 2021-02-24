@@ -1,0 +1,10 @@
+本软件已支持：
+1、西门子S7-200、S7-200SMART、S7-1200、S7-1500、S7-300、S7-400、LOGO!等符合S7协议的系列PLC。
+2、通用Modbus-Tcp协议：施耐德PLC、各种数据采集器、仪表等。
+3、三菱PLC的MC（Binary)协议、MC(ASCII)协议、A-1E协议。
+4、欧姆龙PLC的Fins-TCP协议、CIP协议。
+5、AB：ControlLogix5000系列。
+6、松下:Mewtocol协议、MC(Binary)协议。
+7、基恩士:MC(Binary)协议、MC(ASCII)协议。
+
+*本软件仅支持以太网通讯

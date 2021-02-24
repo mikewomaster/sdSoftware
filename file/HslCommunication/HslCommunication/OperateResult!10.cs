@@ -1,0 +1,63 @@
+﻿namespace HslCommunication
+{
+    using System;
+    using System.Diagnostics;
+    using System.Runtime.CompilerServices;
+
+    public class OperateResult<T1, T2, T3, T4, T5, T6, T7, T8, T9, T10> : OperateResult
+    {
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T1 <Content1>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T10 <Content10>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T2 <Content2>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T3 <Content3>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T4 <Content4>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T5 <Content5>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T6 <Content6>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T7 <Content7>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T8 <Content8>k__BackingField;
+        [CompilerGenerated, DebuggerBrowsable(DebuggerBrowsableState.Never)]
+        private T9 <Content9>k__BackingField;
+
+        public OperateResult()
+        {
+        }
+
+        public OperateResult(string msg) : base(msg)
+        {
+        }
+
+        public OperateResult(int err, string msg) : base(err, msg)
+        {
+        }
+
+        public T1 Content1 { get; set; }
+
+        public T10 Content10 { get; set; }
+
+        public T2 Content2 { get; set; }
+
+        public T3 Content3 { get; set; }
+
+        public T4 Content4 { get; set; }
+
+        public T5 Content5 { get; set; }
+
+        public T6 Content6 { get; set; }
+
+        public T7 Content7 { get; set; }
+
+        public T8 Content8 { get; set; }
+
+        public T9 Content9 { get; set; }
+    }
+}
+

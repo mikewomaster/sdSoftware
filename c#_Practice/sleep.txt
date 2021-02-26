@@ -1,0 +1,4 @@
+C#中睡眠函数Sleep
+命名空间：using System.Threading;
+
+Thread.Sleep(500);//睡眠500毫秒，也就是0.5秒

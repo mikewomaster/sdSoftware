@@ -1,0 +1,2 @@
+去掉DataGridView最左边的空白列
+DataGridView.RowHeadersVisible=false;
